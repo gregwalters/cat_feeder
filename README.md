@@ -19,6 +19,10 @@ I was inspired by *How to keep hungry tigers busy in the early morning* [0][1] a
 * Turns off the LCD backlight after a period of inactivity 
 * Cycles through LCD background colors when the backlight is on in hopes a random dance party will break out
 
+### Dependencies
+
+https://github.com/adafruit/RTClib
+https://github.com/adafruit/Adafruit-RGB-LCD-Shield-Library
 
 ### Issues
 
