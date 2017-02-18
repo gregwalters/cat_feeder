@@ -25,6 +25,7 @@ I was inspired by *How to keep hungry tigers busy in the early morning* [0][1] a
 ### Dependencies
 
 https://github.com/adafruit/RTClib
+
 https://github.com/adafruit/Adafruit-RGB-LCD-Shield-Library
 
 ### Issues
