@@ -1,6 +1,9 @@
 # cat_feeder
 Arduino Powered Cat Feeder
 
+![img_20170218_174326](https://cloud.githubusercontent.com/assets/671687/23097745/25e9b7c6-f602-11e6-8f06-9c82a509190e.jpg)
+![img_20170218_174338](https://cloud.githubusercontent.com/assets/671687/23097744/25c1f3bc-f602-11e6-9a5f-8362d103ac61.jpg)
+
 ### Why
 
 I was inspired by *How to keep hungry tigers busy in the early morning* [0][1] and some cats that especially love to eat until they vomit to make an Arduino-powered cat feeder that will dole out food little-by-little over the day so my cats aren't hungry and don't get a chance to eat until they're full to the point of vomiting. Thus was born my way-more-than-$20-hackable-cat-feeder.
