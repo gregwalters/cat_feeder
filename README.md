@@ -15,7 +15,7 @@ I was inspired by *How to keep hungry tigers busy in the early morning* [0][1] a
 * Allows you to do ad-hoc feedings at the press of a button
 * Has a menu system built-in that allows for the adjustment of previously mentioned settings and setting the clock
 * Has an RTC clock that will keep the time between power cycles
-* Stores settings in EEPROM for persistance between reboots
+* Stores settings in EEPROM for persistence between reboots
 * Turns off the LCD backlight after a period of inactivity 
 * Cycles through LCD background colors when the backlight is on in hopes a random dance party will break out
 
@@ -35,4 +35,5 @@ I was inspired by *How to keep hungry tigers busy in the early morning* [0][1] a
 |Uno R3|8.99|https://www.amazon.com/gp/product/B01M1YIL43|
 
 [0] https://nachonachoman.svbtle.com/how-to-keep-hungry-tigers-busy-in-the-early-morning
+
 [1] https://news.ycombinator.com/item?id=13271522
